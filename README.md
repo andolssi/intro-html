@@ -1,4 +1,4 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## Your GitHub Learning Lab Repository for Intro to HTML https://andolssi.github.io/intro-html/
 
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
